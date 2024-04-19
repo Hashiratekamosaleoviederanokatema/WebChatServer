@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT5lvmG6rTerLMoFqxgpuxweKwSPdD5JlhPDC1SG9mmw7272bHGhnmwltjt5d1ZEoYRgxqxQOLdZb8aqecMueg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\Desktop\\WebChat\\Server\\WebChatServer\\WebChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\watsonwebsocket\\4.1.1\\watsonwebsocket.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

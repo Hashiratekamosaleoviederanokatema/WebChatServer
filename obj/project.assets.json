@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "WatsonWebsocket/4.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/WatsonWebsocket.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/WatsonWebsocket.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WatsonWebsocket/4.1.1": {
+      "sha512": "2/06Z6qHAVUIA7G4X7AKQQTKmUANui276dsATau6mP+nvhAqX0FvUOPk78khvFrjzFWEVyhzEmCV8/OlJJsElA==",
+      "type": "package",
+      "path": "watsonwebsocket/4.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net462/WatsonWebsocket.dll",
+        "lib/net462/WatsonWebsocket.xml",
+        "lib/net48/WatsonWebsocket.dll",
+        "lib/net48/WatsonWebsocket.xml",
+        "lib/net6.0/WatsonWebsocket.dll",
+        "lib/net6.0/WatsonWebsocket.xml",
+        "lib/net7.0/WatsonWebsocket.dll",
+        "lib/net7.0/WatsonWebsocket.xml",
+        "lib/net8.0/WatsonWebsocket.dll",
+        "lib/net8.0/WatsonWebsocket.xml",
+        "watson.png",
+        "watsonwebsocket.4.1.1.nupkg.sha512",
+        "watsonwebsocket.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "WatsonWebsocket >= 4.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kuba\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kuba\\Desktop\\WebChat\\Server\\WebChatServer\\WebChatServer.csproj",
+      "projectName": "WebChatServer",
+      "projectPath": "C:\\Users\\Kuba\\Desktop\\WebChat\\Server\\WebChatServer\\WebChatServer.csproj",
+      "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kuba\\Desktop\\WebChat\\Server\\WebChatServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "WatsonWebsocket": {
+            "target": "Package",
+            "version": "[4.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

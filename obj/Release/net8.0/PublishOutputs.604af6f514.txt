@@ -1,0 +1,6 @@
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServerApp_1.0\WebChatServer.exe
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServerApp_1.0\WebChatServer.dll
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServerApp_1.0\WebChatServer.deps.json
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServerApp_1.0\WebChatServer.runtimeconfig.json
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServerApp_1.0\WebChatServer.pdb
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServerApp_1.0\WatsonWebsocket.dll

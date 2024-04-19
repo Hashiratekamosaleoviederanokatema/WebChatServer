@@ -1,0 +1,17 @@
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\bin\Release\net8.0\WebChatServer.exe
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\bin\Release\net8.0\WebChatServer.deps.json
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\bin\Release\net8.0\WebChatServer.runtimeconfig.json
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\bin\Release\net8.0\WebChatServer.dll
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\bin\Release\net8.0\WebChatServer.pdb
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\bin\Release\net8.0\WatsonWebsocket.dll
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatS.628FA123.Up2Date
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.dll
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\refint\WebChatServer.dll
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.pdb
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\WebChatServer.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\WebChat\Server\WebChatServer\obj\Release\net8.0\ref\WebChatServer.dll
