@@ -1,4 +1,4 @@
-# 🌐 Webchat Server
+# 🌐 WebChat Server
 Version 1.0  
 License: MIT
 
