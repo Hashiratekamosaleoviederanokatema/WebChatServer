@@ -34,6 +34,7 @@ You also have other functions like:
 - SendMessagetToEveryone(Guid _senderGuid, string _message)
 - SendMessageToSpecificClient(Guid _receiverGuid, string _message)
 - SendServerMessage(Guid _receiverGuid, string _message, bool _toEveryone)
+\
 You can use those to interact with chat ^\
 Also
 - ExecuteCommand(string _message, MessageReceivedEventArgs _senderArgs)\
