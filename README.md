@@ -5,6 +5,9 @@ License: MIT
 ## 📝 What is WebChat?
 WebChat is an educational project created by me. I wanted to build something cool involving sockets, connections, etc., and I did!
 
+![WebChatClientPresentation](https://github.com/user-attachments/assets/31e0dd64-9056-4bd6-b693-23fdefc60764)
+
+
 **REMEMBER THAT THIS PROJECT IS SOLELY FOR EDUCATIONAL PURPOSES.
 IT IS UNOPTIMIZED, AND MANY AREAS COULD BENEFIT FROM BETTER SOLUTIONS.** 😓
 
