@@ -2,7 +2,7 @@
 Version 1.0  
 License: MIT
 
-# ❗ IMPORTANT (PLEASE READ)
+## ❗ IMPORTANT (PLEASE READ)
 **Update 2025**: It’s an old one-time project made quickly for school purposes. It won’t receive any updates. The code is a development mess, it works but some of the solutions are at least questionable (though sufficient for a quick school project).
 I’m planning to remake WebChat in the future once I have more time, as I’m currently focused on developing my game. This time, it will be cross-platform (web, mobile, desktop clients) and much more advanced.
 
